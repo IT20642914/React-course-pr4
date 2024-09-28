@@ -1,6 +1,9 @@
 # React-course-pr4
-React-course-pr3
+
 # Timer Challenge Project with React Portals and useRef
+
+![image](https://github.com/user-attachments/assets/16d5d730-1e35-442b-82f8-bb7b606e8b1d)
+
 
 This project is a simple timer challenge built using **React**. It demonstrates how to use **React Portals** to display a result modal and how to use the **useRef** and **useImperativeHandle** hooks to control DOM elements and custom components programmatically.
 
